@@ -1,6 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a bioinformatics student interested in data science and data analysis. You can find me on [LinkedIn](https://www.linkedin.com/in/martyna-szulc-5101ab221/).
-Thank you for taking the time to look at my projects! <br /> Have a nice day 🌷
+Thank you for taking the time to look at my projects! <br />🌷 Have a nice day 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martynaszulc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martyna's GitHub Stats" />
 </a>

@@ -1,5 +1,6 @@
 ### Hello there 👋
-I am a bioinformatics student interested in data science and data analysis. My GitHub will host the results of my work, including dataset analysis. I am constantly developing myself. Thank you for taking the time to look at my projects!
+I am a bioinformatics student interested in data science and data analysis. My GitHub will host the results of my work. 
+Thank you for taking the time to look at my projects!
 Have a nice day 🌷
 <!--
 **martynaszulc/martynaszulc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
